@@ -7,10 +7,10 @@ así que el CPS real se mantiene estable en lugar de venir a rachas.
 
 ## Uso rápido
 
-Pega esto en Potassium (cambia `USUARIO` por tu usuario de GitHub):
+Pega esto en Potassium:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USUARIO/potassium-autoclicker/main/autoclicker.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/stoneflower1410/potassium-autoclicker/main/autoclicker.lua"))()
 ```
 
 O copia el contenido de [`autoclicker.lua`](autoclicker.lua) directamente en la caja de scripts.

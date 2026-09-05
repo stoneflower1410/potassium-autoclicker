@@ -5,8 +5,7 @@
 	FORMAS DE USAR:
 
 	1) Cargar desde GitHub (recomendado). Pega esto en Potassium:
-	   loadstring(game:HttpGet("https://raw.githubusercontent.com/USUARIO/potassium-autoclicker/main/autoclicker.lua"))()
-	   (cambia USUARIO por tu usuario de GitHub)
+	   loadstring(game:HttpGet("https://raw.githubusercontent.com/stoneflower1410/potassium-autoclicker/main/autoclicker.lua"))()
 
 	2) Pegar este archivo entero en la caja de scripts y ejecutar.
 
