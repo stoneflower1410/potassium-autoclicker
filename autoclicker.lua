@@ -16,7 +16,7 @@
 
 --========================= CONFIGURACION =========================
 local CONFIG = {
-	CPS           = 50,                  -- clics por segundo objetivo (sube/baja a gusto)
+	CPS           = 12,                  -- clics por segundo objetivo (sube/baja a gusto)
 	TOGGLE_KEY    = Enum.KeyCode.F,      -- tecla para activar/desactivar
 	START_ENABLED = false,               -- true = empieza ya clicando
 	ONLY_FOCUSED  = true,                -- no clicar si la ventana de Roblox no tiene el foco
